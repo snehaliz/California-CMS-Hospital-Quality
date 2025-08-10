@@ -1,0 +1,6 @@
+sklearn
+pandas
+matplotlib.pyplot
+csv
+mysql.connector
+seaborn
